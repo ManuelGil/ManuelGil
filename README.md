@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Manuel Gil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true)](https://github.com/ManuelGil/ManuelGil)
-
 #### I'm a Full-Stack Developer working in Bogotá, Colombia.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgil)](https://github.com/ManuelGil/ManuelGil)
 
 - 🚀 I use daily:
   ![PHP](https://img.shields.io/badge/-PHP-8fcfd1?style=plastic&logo=PHP)
@@ -24,4 +24,4 @@
   </a>
 - ⚡ Fun fact: I enjoy cooking
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgil)](https://github.com/ManuelGil/ManuelGil)
+[![Manuel Gil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true)](https://github.com/ManuelGil/ManuelGil)
