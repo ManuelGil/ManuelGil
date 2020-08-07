@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-<!-- Place this tag where you want the button to render. -->
-
-<a class="github-button" href="https://github.com/manuelgil" data-size="large" data-show-count="true" aria-label="Follow @manuelgil on GitHub">Follow @manuelgil</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <a href="https://twitter.com/intent/follow?screen_name=imgildev">
-    <img src="https://img.shields.io/twitter/follow/imgildev.svg?style=social" alt="Twitter">
+  <img src="https://img.shields.io/twitter/follow/imgildev.svg?style=social" alt="Twitter">
 </a>
 
-<a class="github-button" href="https://github.com/sponsors/manuelgil" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @manuelgil on GitHub">Sponsor
+<a class="github-button" href="https://github.com/manuelgil" data-size="large" data-show-count="true" aria-label="Follow @manuelgil on GitHub">
+  Follow @manuelgil
+</a>
+
+<a class="github-button" href="https://github.com/sponsors/manuelgil" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @manuelgil on GitHub">
+  Sponsor
 </a>
 
 #### I'm a Full-Stack Developer working in Bogotá, Colombia.
@@ -29,7 +32,5 @@
   ![youtube](https://img.shields.io/badge/-Youtube-c4302b?style=plastic&logo=Youtube)
 
 [![Manuel Gil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true)](https://github.com/ManuelGil/ManuelGil)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgil)](https://github.com/ManuelGil/ManuelGil)
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgil)](https://github.com/ManuelGil/ManuelGil)
