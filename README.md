@@ -24,5 +24,4 @@
 - ⚡ Fun fact: I enjoy cooking
 
 [![Manuel Gil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true)](https://github.com/ManuelGil/ManuelGil)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgil)](https://github.com/ManuelGil/ManuelGil)
