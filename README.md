@@ -1,16 +1,51 @@
-### Hi there 👋, my name is Manuel Gil
+<h1 align="center">Hi 👋, I'm Manuel Gil</h1>
+<h3 align="center">I am Reset Windows Update Tool creator</h3>
 
-#### I am Reset Windows Update Tool creator
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuelgil&label=Profile%20views&color=0e75b6&style=flat" alt="manuelgil" /> </p>
 
-A developer for fun
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuelgil" alt="manuelgil" /></a> </p>
 
-Skills: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-8fcfd1?style=plastic&logo=PHP) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+<p align="left"> <a href="https://twitter.com/imgildev" target="blank"><img src="https://img.shields.io/twitter/follow/imgildev?logo=twitter&style=for-the-badge" alt="imgildev" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Undefined Devs](https://www.youtube.com/channel/UCbeeo7zpN-XYEEC-hpukyOg)
-- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=imgildev"><img src="https://img.shields.io/twitter/follow/imgildev.svg?style=social" alt="Twitter"></a>
-- ⚡ Fun fact: I enjoy cooking
+- 🔭 I’m currently working on [Alternate Admin for Moodle](https://github.com/ManuelGil/alternate-admin)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manuelgil) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imgildev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/imgildev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/imgildev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='Twitch' height='40'>](https://www.twitch.tv/imgildev) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://imgil.dev/)
+- 🌱 I’m currently learning **Networking**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelgil)
+- 👯 I’m looking to collaborate on [Undefined Devs](https://twitter.com/UndefinedDevs) and [Paradigma Indie](https://twitter.com/IndieParadigma)
+
+- 🤝 I’m looking for help with [Reset Windows Update Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool)
+
+- 👨‍💻 All of my projects are available at [https://manuelgil.github.io/](https://manuelgil.github.io/)
+
+- 📝 I regularly write articles on [https://imgil.dev/](https://imgil.dev/)
+
+- 💬 Ask me about **PHP**
+
+- 📫 How to reach me **imgil.dev@outlook.com**
+
+- ⚡ Fun fact **Vegetarian**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imgildev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://discord.gg/fSQpXtaRSE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fSQpXtaRSE" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelgil&show_icons=true&locale=en&layout=compact" alt="manuelgil" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true&locale=en" alt="manuelgil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelgil&" alt="manuelgil" /></p>
+
