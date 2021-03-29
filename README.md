@@ -17,11 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://manuelgil.github.io/](https://manuelgil.github.io/)
 
-- 📝 I regularly write articles on [https://imgil.dev/](https://imgil.dev/)
+<!-- - 📝 I regularly write articles on [https://imgil.dev/](https://imgil.dev/) -->
 
 - 💬 Ask me about **PHP**
-
-- 📫 How to reach me **imgil.dev@outlook.com**
 
 - ⚡ Fun fact **Vegetarian**
 
