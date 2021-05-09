@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **Networking**
 
-- 👯 I’m looking to collaborate on [Undefined Devs](https://twitter.com/UndefinedDevs) and [Paradigma Indie](https://twitter.com/IndieParadigma)
-
 - 🤝 I’m looking for help with [Reset Windows Update Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool)
 
-- 👨‍💻 All of my projects are available at [https://manuelgil.github.io/](https://manuelgil.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://manuelgil.github.io/](https://manuelgil.github.io/) -->
 
 <!-- - 📝 I regularly write articles on [https://imgil.dev/](https://imgil.dev/) -->
 
