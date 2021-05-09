@@ -30,7 +30,7 @@
 <a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imgildev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imgildev" height="30" width="40" /></a>
 <a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imgildev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/imgildev?sub_confirmation=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imgildev" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="imgildev" height="30" width="40" /></a>
 </p>
 
