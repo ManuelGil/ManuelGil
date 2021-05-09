@@ -32,8 +32,6 @@
 <a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@imgildev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="imgildev" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="imgildev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imgildev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="imgildev" height="30" width="40" /></a>
-<a href="https://discord.gg/fSQpXtaRSE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="fSQpXtaRSE" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
