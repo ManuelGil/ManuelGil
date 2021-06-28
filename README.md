@@ -24,13 +24,12 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-- ⚡ Fun fact **I vegetarian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imgildev" height="30" width="40" /></a>
-<a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imgildev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://twitter.com/imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/ManuelGil/ManuelGil/master/images/icons/Social/twitter.svg" alt="imgildev" height="30" width="40" /></a>
+<a href="https://medium.com/@imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/ManuelGil/ManuelGil/master/images/icons/Social/medium.svg" alt="@imgildev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/imgildev" target="blank"><img align="center" src="https://raw.githubusercontent.com/ManuelGil/ManuelGil/master/images/icons/Social/youtube.svg" alt="imgildev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
