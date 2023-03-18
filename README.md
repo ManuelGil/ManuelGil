@@ -29,6 +29,9 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solucionar el error “Windows no puede encontrar el archivo” al abrir Office o Skype.](https://medium.com/@imgildev/solucionar-el-error-windows-no-puede-encontrar-el-archivo-al-abrir-office-o-skype-480613c083c2?source=rss-876167fa4f91------2)
+- [Desinstalar completamente Office 2016, Office 2013 u Office 365.](https://medium.com/@imgildev/desinstalar-completamente-office-2016-office-2013-u-office-365-8d0335fe139e?source=rss-876167fa4f91------2)
+- [Desinstalar el servicio Click-to-Run de Office.](https://medium.com/@imgildev/desinstalar-el-servicio-click-to-run-de-office-39ac2d50b1a8?source=rss-876167fa4f91------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
