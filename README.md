@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [**Indie Creators Community**](https://github.com/Indie-Creator-Community)
 
-- 🤝 I’m looking for help with [**@wureset-tools**](http://localhost:3000/)
+- 🤝 I’m looking for help with [**@wureset-tools**](https://github.com/wureset-tools)
 
 - 👨‍💻 All of my projects are available at [**manuelgil.github.io**](https://manuelgil.github.io/)
 
