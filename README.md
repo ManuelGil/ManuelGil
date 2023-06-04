@@ -29,6 +29,7 @@
 ## Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Persistencia y Creatividad: El Camino hacia la Realización Personal](https://medium.com/@imgildev/persistencia-y-creatividad-el-camino-hacia-la-realizaci%C3%B3n-personal-b23a635c5ace?source=rss-876167fa4f91------2)
 - [SemVer: Qué es y por qué es importante para el desarrollo de software](https://dev.to/imgildev/semver-que-es-y-por-que-es-importante-para-el-desarrollo-de-software-4ic1)
 - [Automatizando la generación de datos ficticios con Seed, Factory, Faker y TypeORM en NestJS](https://dev.to/imgildev/automatizando-la-generacion-de-datos-ficticios-con-seed-factory-faker-y-typeorm-en-nestjs-5fpc)
 - [¿Qué es GitHub Pages?](https://dev.to/imgildev/que-es-github-pages-2e35)
