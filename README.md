@@ -1,198 +1,72 @@
-<h1 align="center">I'm Manuel Gil, a dev & content creator</h1>
-<h3 align="center">A passionate backend developer from Latam</h3>
+<h1 align="center">👋 Hi, I'm Manuel Gil</h1>
+<h3 align="center">Software Developer | Open Source Advocate | Indie Maker | Speaker</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=manuelgil&label=Profile%20views&color=0e75b6&style=flat"
-        alt="manuelgil" />
-</p>
+---
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=manuelgil" alt="manuelgil" />
-    </a>
-</p>
+## 👨‍💻 About Me
 
-<p align="left">
-    <a href="https://twitter.com/imgildev" target="blank">
-        <img src="https://img.shields.io/twitter/follow/imgildev?logo=twitter&style=for-the-badge" alt="imgildev" />
-    </a>
-</p>
+Hi there! I’m a **Software Developer**, **Open Source Advocate**, **Indie Maker**, and **Speaker** with over **8 years of experience** crafting tools and apps that simplify life for developers and businesses.
 
-- 👯 I’m looking to collaborate on [**Indie Creators Community**](https://github.com/Indie-Creator-Community)
+I specialize in building **scalable, impactful solutions** that address real-world challenges, and I’m driven by a passion for **innovation** and **community growth**.
 
-- 🤝 I’m looking for help with [**@wureset-tools**](https://github.com/wureset-tools)
+---
 
-- 💬 Ask me about **CodeIgniter 4** and **PHP**
+## 🌟 What I Do
 
-- ⚡ Fun fact **I ♥ 🦊's** and **I'm vegetarian**
+I contribute to the **open source community** by creating tools that boost productivity and inspire creativity. My projects span across:
 
-### Blogs posts
+- Developing **VS Code Extensions**.
+- Crafting **developer tools**.
+- Supporting **developer communities** through events and resources.
 
+### 💡 Highlighted Projects
+
+- **[Reset Windows Update Tool](https://github.com/wureset-tools)**
+  A reliable CLI tool trusted by thousands to quickly resolve Windows Update issues.
+
+- **[JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)**
+  A VS Code extension that simplifies JSON management and visualization for enhanced productivity.
+
+---
+
+## ❤️ Why Open Source?
+
+Open source fuels innovation and makes technology accessible to everyone. By sharing my work, I aim to:
+
+- Solve real-world problems.
+- Empower developers with practical tools.
+- Inspire learning and growth within the community.
+
+---
+
+## 📖 Blog Posts
+
+Check out my latest articles and tutorials:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🤝 Let’s Connect
+
+I’d love to collaborate, share ideas, or work on exciting projects together. Feel free to reach out!
+
+### 🌍 Socials
+
 <p align="left">
-    <a href="https://dev.to/imgildev" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="imgildev" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/imgildev" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="imgildev" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/imgildev" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="imgildev" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/imgildev" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="imgildev" height="30" width="40" />
-    </a>
+  <a href="https://dev.to/imgildev" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-000?logo=dev.to&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/imgildev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/manuelgildev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.twitch.tv/imgildev" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/c/imgildev" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🎉 Support My Work
+
+If you enjoy my projects or find them helpful, consider supporting me:
 <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
-            height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-            height="40" />
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-            height="40" />
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-            width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40"
-            height="40" />
-    </a>
-    <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-            alt="materialize" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-            alt="nestjs" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-            alt="nginx" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
-    </a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
-            width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-            alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
-            height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" />
-    </a>
+  <a href="https://github.com/sponsors/ManuelGil" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsors-FF69B4?logo=githubsponsors&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.paypal.com/paypalme/ManuelFGil" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelgil&show_icons=true&locale=en&layout=compact" alt="manuelgil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelgil&show_icons=true&locale=en" alt="manuelgil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelgil&" alt="manuelgil" /></p>
