@@ -46,6 +46,9 @@ Check out my latest articles and tutorials:
 - [SemVer: Qué es y por qué es importante para el desarrollo de software](https://dev.to/imgildev/semver-que-es-y-por-que-es-importante-para-el-desarrollo-de-software-4ic1)
 - [Automatizando la generación de datos ficticios con Seed, Factory, Faker y TypeORM en NestJS](https://dev.to/imgildev/automatizando-la-generacion-de-datos-ficticios-con-seed-factory-faker-y-typeorm-en-nestjs-5fpc)
 - [¿Qué es GitHub Pages?](https://dev.to/imgildev/que-es-github-pages-2e35)
+- [Solucionar el error “Windows no puede encontrar el archivo” al abrir Office o Skype.](https://medium.com/@imgildev/solucionar-el-error-windows-no-puede-encontrar-el-archivo-al-abrir-office-o-skype-480613c083c2?source=rss-876167fa4f91------2)
+- [Desinstalar completamente Office 2016, Office 2013 u Office 365.](https://medium.com/@imgildev/desinstalar-completamente-office-2016-office-2013-u-office-365-8d0335fe139e?source=rss-876167fa4f91------2)
+- [Desinstalar el servicio Click-to-Run de Office.](https://medium.com/@imgildev/desinstalar-el-servicio-click-to-run-de-office-39ac2d50b1a8?source=rss-876167fa4f91------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
