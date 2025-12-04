@@ -5,37 +5,36 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I’m a **Software Developer**, **Open Source Advocate**, **Indie Maker**, and **Speaker** with over **8 years of experience** crafting tools and apps that simplify life for developers and businesses.
-
-I specialize in building **scalable, impactful solutions** that address real-world challenges, and I’m driven by a passion for **innovation** and **community growth**.
+I build tools, extensions, and utilities that make developers' lives easier. With over **8 years of experience**, I focus on creating **practical, scalable, and developer-friendly solutions** that solve real problems.
 
 ---
 
-## 🌟 What I Do
+## 🚀 What I Do
 
-I contribute to the **open source community** by creating tools that boost productivity and inspire creativity. My projects span across:
+I'm passionate about designing tools that improve workflows and empower the developer community:
 
-- Developing **VS Code Extensions**.
-- Crafting **developer tools**.
-- Supporting **developer communities** through events and resources.
+- Building **VS Code extensions** and **CLI tools**.
+- Creating resources that support and educate developers.
+- Maintaining and contributing to **open source projects**.
+- Sharing insights through talks, tutorials, and writing.
 
-### 💡 Highlighted Projects
+## 🌟 Featured Projects
 
-- **[Reset Windows Update Tool](https://github.com/wureset-tools)**
-  A reliable CLI tool trusted by thousands to quickly resolve Windows Update issues.
+- **[Reset Windows Update Tool](https://wureset.com)**
+  A trusted command-line tool that helps thousands of users diagnose and fix Windows Update issues quickly.
 
-- **[JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)**
-  A VS Code extension that simplifies JSON management and visualization for enhanced productivity.
+- **[JSON Flow](https://json-flow.com)**
+  A VS Code extension that streamlines JSON editing and visualization to boost productivity.
 
 ---
 
 ## ❤️ Why Open Source?
 
-Open source fuels innovation and makes technology accessible to everyone. By sharing my work, I aim to:
+Open source accelerates innovation and makes technology accessible to everyone. Through my projects, I aim to:
 
-- Solve real-world problems.
-- Empower developers with practical tools.
-- Inspire learning and growth within the community.
+- Provide practical solutions to real-world problems.
+- Share knowledge and promote community-driven learning.
+- Inspire others to build, contribute, and grow.
 
 ---
 
@@ -53,26 +52,20 @@ Check out my latest articles and tutorials:
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-I’d love to collaborate, share ideas, or work on exciting projects together. Feel free to reach out!
+I'm always excited to collaborate, exchange ideas, or explore new opportunities:
 
-### 🌍 Socials
+- **Twitter:** https://twitter.com/imgildev
+- **LinkedIn:** https://www.linkedin.com/in/manuelgildev
+- **YouTube:** https://www.youtube.com/c/imgildev
 
-<p align="left">
-  <a href="https://dev.to/imgildev" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-000?logo=dev.to&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/imgildev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/manuelgildev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.twitch.tv/imgildev" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/c/imgildev" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
-</p>
 
 ---
 
 ## 🎉 Support My Work
 
-If you enjoy my projects or find them helpful, consider supporting me:
-<p align="left">
-  <a href="https://github.com/sponsors/ManuelGil" target="_blank"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/GitHub_Sponsors-FF69B4?logo=githubsponsors&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.paypal.com/paypalme/ManuelFGil" target="_blank"><img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge" /></a>
-</p>
+If my projects help you or your team, consider supporting my open-source work:
+
+- **GitHub Sponsors:** https://github.com/sponsors/ManuelGil
+- **Buy me a coffee:** https://buymeacoffee.com//ManuelGil
